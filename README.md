@@ -1,2 +1,1 @@
-# Googlecolab
-# Googlecolab
+# Python example use Googlecolab
