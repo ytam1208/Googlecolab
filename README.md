@@ -1,1 +1,1 @@
-# Python example use Googlecolab
+# Use Googlecolab
